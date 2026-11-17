@@ -4,7 +4,7 @@
 
 I build web applications with React, Next.js and Node.js, and I bring an academic background in machine learning and computer vision. I graduated in 2026 with a B.Sc. in Artificial Intelligence & Data Science from Al-Ahliyya Amman University, and I completed the 800-hour full-stack program at Coding Academy by Orange.
 
-[Portfolio](https://mhmdalhmoud.github.io) · [LinkedIn](https://www.linkedin.com/in/mohammad-alhhmoud-559348234) · [Email](mailto:mohammed.alhmoud03@gmail.com)
+[Portfolio](https://mhmdalhmoud.github.io) · [LinkedIn](https://www.linkedin.com/in/mohammed-alhmoud-559348234) · [Email](mailto:mohammed.alhmoud03@gmail.com)
 
 ## About me
 
@@ -44,5 +44,5 @@ Care Link, Joud, AIVendance and TickDone are team projects hosted in shared orga
 ## Contact
 
 - Portfolio: [mhmdalhmoud.github.io](https://mhmdalhmoud.github.io)
-- LinkedIn: [mohammad-alhhmoud](https://www.linkedin.com/in/mohammad-alhhmoud-559348234)
+- LinkedIn: [mohammed-alhmoud](https://www.linkedin.com/in/mohammed-alhmoud-559348234)
 - Email: mohammed.alhmoud03@gmail.com
